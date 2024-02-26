@@ -1,0 +1,40 @@
+#root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.divclass {
+  margin: 20px 0;
+}
+header {
+  color: black;
+  background-color: rgb(126, 127, 127);
+  padding: 10px 0;
+  text-align: center;
+  width: 200%;
+}
+footer {
+  color: black;
+  background-color: rgb(126, 127, 127);
+  padding: 10px 0;
+  text-align: center;
+  width: 200%;
+}
+p {
+  background-color: rgb(237, 233, 233);
+  padding: 10px;
+  border-radius: 5px;
+  margin: 10px 0;
+  width: 80%;
+  max-width: 500px;
+}
+h2 {
+  background-color: rgb(217, 236, 236);
+}
+#submit {
+  background-color: green;
+  color: aliceblue;
+}
